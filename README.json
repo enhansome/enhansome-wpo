@@ -19,7 +19,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2616
+            "stars": 2618
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2616
+            "stars": 2618
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2616
+            "stars": 2618
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2616
+            "stars": 2618
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2616
+            "stars": 2618
           }
         }
       ],
@@ -551,7 +551,7 @@
             "last_commit": "2026-08-12T16:20:18Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30653
+            "stars": 30656
           }
         },
         {
@@ -565,7 +565,7 @@
             "last_commit": "2026-08-12T19:01:13Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8579
+            "stars": 8580
           }
         },
         {
@@ -1141,7 +1141,7 @@
             "last_commit": "2025-10-25T03:16:29Z",
             "owner": "Zizzamia",
             "repo": "perfume.js",
-            "stars": 3203
+            "stars": 3204
           }
         },
         {
@@ -1643,7 +1643,7 @@
             "last_commit": "2025-01-20T21:42:24Z",
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27080
+            "stars": 27081
           }
         },
         {
@@ -1682,7 +1682,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:38:45Z",
+            "last_commit": "2026-08-13T06:19:14Z",
             "owner": "unjs",
             "repo": "fontaine",
             "stars": 1977
@@ -2002,7 +2002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:50.600Z",
+    "last_updated": "2026-08-13T07:02:33.330Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "original_repository_sha": "84f32948a6298456d6a94cff64551f39f2666e6f",
     "enhanced_repository": "enhansome/enhansome-wpo",
