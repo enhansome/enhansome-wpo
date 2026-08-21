@@ -15,7 +15,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2643
+            "stars": 2649
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2643
+            "stars": 2649
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2643
+            "stars": 2649
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2643
+            "stars": 2649
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2643
+            "stars": 2649
           }
         }
       ],
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 121169275,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T02:40:48Z",
+            "last_commit": "2026-08-21T02:12:03Z",
             "owner": "relative-ci",
             "repo": "bundle-stats",
             "stars": 671
@@ -318,7 +318,7 @@
             "last_commit": "2024-10-11T03:59:02Z",
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9149
+            "stars": 9147
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-06-27T18:21:13Z",
             "owner": "jsdelivr",
             "repo": "jsdelivr",
-            "stars": 6343
+            "stars": 6345
           }
         },
         {
@@ -558,10 +558,10 @@
             "archived": false,
             "id": 53370988,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T16:18:32Z",
+            "last_commit": "2026-08-21T05:09:10Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30677
+            "stars": 30681
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-15T07:19:27Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8586
+            "stars": 8588
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-03-27T19:57:30Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 7049
+            "stars": 7051
           }
         }
       ],
@@ -765,10 +765,10 @@
             "archived": false,
             "id": 12226786,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:44:54Z",
+            "last_commit": "2026-08-20T08:24:01Z",
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32584
+            "stars": 32589
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2018-06-06T14:25:22Z",
             "owner": "dieulot",
             "repo": "instantclick",
-            "stars": 5484
+            "stars": 5483
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2023-04-20T20:28:14Z",
             "owner": "headjs",
             "repo": "headjs",
-            "stars": 4120
+            "stars": 4118
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2018-05-11T08:04:20Z",
             "owner": "shootaroo",
             "repo": "jit-grunt",
-            "stars": 505
+            "stars": 504
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-08-17T17:23:09Z",
             "owner": "cloudflare",
             "repo": "telescope",
-            "stars": 299
+            "stars": 300
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13380
+            "stars": 13381
           }
         },
         {
@@ -1347,7 +1347,7 @@
             "last_commit": "2026-08-14T17:35:12Z",
             "owner": "terser",
             "repo": "terser",
-            "stars": 9322
+            "stars": 9323
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "archived": false,
             "id": 504028,
             "language": "Python",
-            "last_commit": "2026-07-28T07:03:12Z",
+            "last_commit": "2026-08-20T11:38:55Z",
             "owner": "django-compressor",
             "repo": "django-compressor",
             "stars": 2870
@@ -1452,7 +1452,7 @@
             "last_commit": "2026-06-22T03:26:10Z",
             "owner": "gruntjs",
             "repo": "grunt-contrib-uglify",
-            "stars": 1471
+            "stars": 1469
           }
         },
         {
@@ -1728,7 +1728,7 @@
             "last_commit": "2025-01-20T21:42:24Z",
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27080
+            "stars": 27079
           }
         },
         {
@@ -1743,7 +1743,7 @@
             "last_commit": "2024-04-03T08:17:04Z",
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17717
+            "stars": 17718
           }
         },
         {
@@ -1758,7 +1758,7 @@
             "last_commit": "2026-08-03T08:22:27Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10255
+            "stars": 10256
           }
         },
         {
@@ -1854,7 +1854,7 @@
             "last_commit": "2026-08-19T14:24:46Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22640
+            "stars": 22642
           }
         },
         {
@@ -1941,7 +1941,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40389
+            "stars": 40387
           }
         },
         {
@@ -2082,7 +2082,7 @@
             "last_commit": "2025-11-07T20:30:01Z",
             "owner": "imteekay",
             "repo": "web-performance-research",
-            "stars": 1050
+            "stars": 1051
           }
         },
         {
@@ -2105,7 +2105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:02:26.866Z",
+    "last_updated": "2026-08-21T06:03:44.226Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "original_repository_id": 25212911,
     "original_repository_sha": "84f32948a6298456d6a94cff64551f39f2666e6f",
