@@ -15,7 +15,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2649
+            "stars": 2655
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2649
+            "stars": 2655
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2649
+            "stars": 2655
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2649
+            "stars": 2655
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-14T09:08:35Z",
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2649
+            "stars": 2655
           }
         }
       ],
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 71966177,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T07:21:45Z",
+            "last_commit": "2026-08-21T07:06:01Z",
             "owner": "webpack",
             "repo": "webpack-bundle-analyzer",
-            "stars": 12659
+            "stars": 12660
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2023-03-14T16:39:24Z",
             "owner": "danvk",
             "repo": "source-map-explorer",
-            "stars": 3932
+            "stars": 3933
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2024-10-11T03:59:02Z",
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9147
+            "stars": 9148
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2021-06-23T05:41:07Z",
             "owner": "jsperf",
             "repo": "jsperf.com",
-            "stars": 1296
+            "stars": 1297
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-06-27T18:21:13Z",
             "owner": "jsdelivr",
             "repo": "jsdelivr",
-            "stars": 6345
+            "stars": 6346
           }
         },
         {
@@ -558,10 +558,10 @@
             "archived": false,
             "id": 53370988,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T05:09:10Z",
+            "last_commit": "2026-08-21T19:34:47Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30681
+            "stars": 30685
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-15T07:19:27Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8588
+            "stars": 8589
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-08-20T08:24:01Z",
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32589
+            "stars": 32593
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2026-06-27T02:46:51Z",
             "owner": "343dev",
             "repo": "optimizt",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "last_commit": "2026-08-14T20:14:42Z",
             "owner": "guess-js",
             "repo": "guess",
-            "stars": 7118
+            "stars": 7119
           }
         },
         {
@@ -1248,7 +1248,7 @@
             "archived": false,
             "id": 1080635546,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:23:09Z",
+            "last_commit": "2026-08-21T19:53:52Z",
             "owner": "cloudflare",
             "repo": "telescope",
             "stars": 300
@@ -1362,7 +1362,7 @@
             "last_commit": "2026-03-26T11:35:43Z",
             "owner": "kangax",
             "repo": "html-minifier",
-            "stars": 5037
+            "stars": 5038
           }
         },
         {
@@ -1377,7 +1377,7 @@
             "last_commit": "2024-10-18T06:34:43Z",
             "owner": "clean-css",
             "repo": "clean-css",
-            "stars": 4198
+            "stars": 4199
           }
         },
         {
@@ -1758,7 +1758,7 @@
             "last_commit": "2026-08-03T08:22:27Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10256
+            "stars": 10258
           }
         },
         {
@@ -1770,7 +1770,7 @@
             "archived": false,
             "id": 543064943,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T23:03:09Z",
+            "last_commit": "2026-08-21T19:29:55Z",
             "owner": "unjs",
             "repo": "fontaine",
             "stars": 1982
@@ -1854,7 +1854,7 @@
             "last_commit": "2026-08-19T14:24:46Z",
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22642
+            "stars": 22646
           }
         },
         {
@@ -1941,7 +1941,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40387
+            "stars": 40389
           }
         },
         {
@@ -1971,7 +1971,7 @@
             "last_commit": "2022-04-20T11:35:50Z",
             "owner": "httperf",
             "repo": "httperf",
-            "stars": 1016
+            "stars": 1017
           }
         },
         {
@@ -2105,7 +2105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:03:44.226Z",
+    "last_updated": "2026-08-22T06:00:31.395Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "original_repository_id": 25212911,
     "original_repository_sha": "84f32948a6298456d6a94cff64551f39f2666e6f",
