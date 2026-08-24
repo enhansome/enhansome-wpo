@@ -1,6 +1,6 @@
 # Awesome WPO with stars
 
-[![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors) ⭐ 9,048 | 🐛 17 | 📅 2026-07-28
+[![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors) ⭐ 9,049 | 🐛 18 | 📅 2026-07-28
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
 
 Welcome to the curated list of Web Performance Optimization resources. This repository aims to gather the best tools, articles, blogs, books, and talks related to optimizing website performance. Whether you're a developer, designer, or performance enthusiast, you'll find valuable content here to supercharge your web projects.
@@ -187,7 +187,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Bundle Analyzer
 
 * [Webpack bundle analyzer](https://github.com/webpack/webpack-bundle-analyzer) ⭐ 12,660 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-23 - Webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
-* [Bundlesize](https://github.com/siddharthkp/bundlesize) ⭐ 4,473 | 🐛 83 | 🌐 JavaScript | 📅 2026-07-29 - Keep your bundle size in check.
+* [Bundlesize](https://github.com/siddharthkp/bundlesize) ⭐ 4,474 | 🐛 83 | 🌐 JavaScript | 📅 2026-07-29 - Keep your bundle size in check.
 * [source-map-explorer](https://github.com/danvk/source-map-explorer) ⭐ 3,933 | 🐛 57 | 🌐 TypeScript | 📅 2023-03-14 - Analyze and debug bundle space usage through source maps.
 * [Compression Webpack plugin](https://github.com/webpack/compression-webpack-plugin) ⭐ 1,424 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-12 - Prepare compressed versions of assets to serve them with Content-Encoding.
 * [BundleStats](https://github.com/relative-ci/bundle-stats) ⭐ 671 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-24 - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds.
@@ -242,9 +242,9 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Core Web Vitals
 
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 30,692 | 🐛 466 | 🌐 JavaScript | 📅 2026-08-24 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
-* [web-vitals](https://github.com/GoogleChrome/web-vitals) ⭐ 8,591 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-15 - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
-* [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) ⭐ 7,053 | 🐛 233 | 🌐 JavaScript | 📅 2026-03-27 - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 30,693 | 🐛 466 | 🌐 JavaScript | 📅 2026-08-24 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
+* [web-vitals](https://github.com/GoogleChrome/web-vitals) ⭐ 8,592 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-24 - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
+* [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) ⭐ 7,054 | 🐛 233 | 🌐 JavaScript | 📅 2026-03-27 - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
 
 ## Extensions
 
@@ -271,7 +271,7 @@ Here's a quick overview of the categories covered in this collection:
 
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
-* [Sharp](https://github.com/lovell/sharp) ⭐ 32,597 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-23 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
+* [Sharp](https://github.com/lovell/sharp) ⭐ 32,598 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-23 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
 * [Gm](https://github.com/aheckmann/gm) ⭐ 6,978 | 🐛 366 | 🌐 JavaScript | 📅 2025-02-25 - GraphicsMagick and ImageMagick for Node.js.
 * [Imagemin](https://github.com/imagemin/imagemin) ⭐ 5,721 | 🐛 79 | 🌐 JavaScript | 📅 2025-03-07 - Minify images seamlessly with Node.js.
 * [mozjpeg](https://github.com/mozilla/mozjpeg) ⭐ 5,716 | 🐛 100 | 🌐 C | 📅 2025-06-23 - Improved JPEG encoder.
@@ -344,10 +344,10 @@ Here's a quick overview of the categories covered in this collection:
 ## Minifiers
 
 * [UglifyJS2](https://github.com/mishoo/UglifyJS) ⭐ 13,381 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
-* [Terser](https://github.com/terser/terser) ⭐ 9,323 | 🐛 347 | 🌐 JavaScript | 📅 2026-08-22 - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
+* [Terser](https://github.com/terser/terser) ⭐ 9,324 | 🐛 347 | 🌐 JavaScript | 📅 2026-08-22 - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
 * [HTMLMinifier](https://github.com/kangax/html-minifier) ⭐ 5,037 | 🐛 107 | 🌐 JavaScript | 📅 2026-03-26 - Highly configurable, well-tested, JavaScript-based HTML minifier with lint-like capabilities.
 * [Clean-css](https://github.com/clean-css/clean-css) ⭐ 4,199 | 🐛 46 | 🌐 JavaScript | 📅 2024-10-18 - A fast, efficient, and well-tested CSS minifier for node.js.
-* [Grunt-uncss](https://github.com/uncss/grunt-uncss) ⭐ 3,794 | 🐛 9 | 🌐 HTML | 📅 2023-07-18 - A grunt task for removing unused CSS from your projects.
+* [Grunt-uncss](https://github.com/uncss/grunt-uncss) ⭐ 3,793 | 🐛 9 | 🌐 HTML | 📅 2023-07-18 - A grunt task for removing unused CSS from your projects.
 * [CSSO](https://github.com/css/csso) ⭐ 3,787 | 🐛 103 | 🌐 JavaScript | 📅 2024-06-21 - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 * [Django-compressor](https://github.com/django-compressor/django-compressor) ⭐ 2,871 | 🐛 121 | 🌐 Python | 📅 2026-08-20 - Compresses linked and inline JavaScript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/jazzband/django-pipeline) ⭐ 1,541 | 🐛 157 | 🌐 Python | 📅 2026-08-15 - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
@@ -378,8 +378,8 @@ Here's a quick overview of the categories covered in this collection:
 
 * [react-virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,081 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-20 - React components for efficiently rendering large lists and tabular data by virtualizing visible rows.
 * [Lazysizes](https://github.com/aFarkas/lazysizes) ⭐ 17,718 | 🐛 209 | 🌐 JavaScript | 📅 2024-04-03 - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-* [Critical](https://github.com/addyosmani/critical) ⭐ 10,261 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - Extract & Inline Critical-path CSS in HTML pages (alpha).
-* [Fontaine](https://github.com/unjs/fontaine) ⭐ 1,983 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-24 - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
+* [Critical](https://github.com/addyosmani/critical) ⭐ 10,262 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - Extract & Inline Critical-path CSS in HTML pages (alpha).
+* [Fontaine](https://github.com/unjs/fontaine) ⭐ 1,983 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-24 - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
 * [TMI](https://github.com/addyosmani/tmi) ⭐ 1,615 | 🐛 6 | 🌐 JavaScript | 📅 2017-02-14 - Too Many Images: discover your image weight on the web.
 * [uCSS](https://github.com/oyvindeh/ucss) ⭐ 1,609 | 🐛 3 | 🌐 JavaScript | 📅 2017-01-26 - Crawls large sites to find unused CSS selectors (does not remove unused CSS).
 * [HTTPinvoke](https://github.com/jakutis/httpinvoke) ⭐ 341 | 🐛 4 | 🌐 JavaScript | 📅 2016-01-25 - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.
@@ -388,7 +388,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## SVG
 
-* [SVGO](https://github.com/svg/svgo) ⭐ 22,650 | 🐛 253 | 🌐 JavaScript | 📅 2026-08-23 - Node.js-based optimizer for SVG vector graphics.
+* [SVGO](https://github.com/svg/svgo) ⭐ 22,650 | 🐛 255 | 🌐 JavaScript | 📅 2026-08-24 - Node.js-based optimizer for SVG vector graphics.
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) ⚠️ Archived - Cleans SVG files of unnecessary data with batch mode, many cleanup options, and threaded processing on multicore CPUs.
 * [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) ⭐ 434 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-31 - Minify SVG using SVGO for Grunt.
 * [SVG OMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
@@ -444,7 +444,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Contributing
 
-For contributing, please check [contributing.md](contributing.md), then [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) ⭐ 9,048 | 🐛 17 | 📅 2026-07-28 and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls) ⭐ 9,048 | 🐛 17 | 📅 2026-07-28.
+For contributing, please check [contributing.md](contributing.md), then [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) ⭐ 9,049 | 🐛 18 | 📅 2026-07-28 and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls) ⭐ 9,049 | 🐛 18 | 📅 2026-07-28.
 
 ***
 
