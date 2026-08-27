@@ -279,7 +279,7 @@
             "archived": false,
             "id": 121169275,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:10:56Z",
+            "last_commit": "2026-08-27T16:33:01Z",
             "owner": "relative-ci",
             "repo": "bundle-stats",
             "stars": 672
@@ -318,7 +318,7 @@
             "last_commit": "2024-10-11T03:59:02Z",
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9148
+            "stars": 9149
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-26T16:48:21Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30705
+            "stars": 30706
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-26T19:06:24Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8593
+            "stars": 8594
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-03-27T19:57:30Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 7062
+            "stars": 7061
           }
         }
       ],
@@ -1743,7 +1743,7 @@
             "last_commit": "2024-04-03T08:17:04Z",
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17718
+            "stars": 17716
           }
         },
         {
@@ -1851,7 +1851,7 @@
             "archived": false,
             "id": 5508088,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T14:00:46Z",
+            "last_commit": "2026-08-27T14:58:51Z",
             "owner": "svg",
             "repo": "svgo",
             "stars": 22654
@@ -1941,7 +1941,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40395
+            "stars": 40396
           }
         },
         {
@@ -2105,7 +2105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:10.341Z",
+    "last_updated": "2026-08-27T16:48:28.665Z",
     "original_repository_info": {
       "archived": false,
       "id": 25212911,
