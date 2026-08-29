@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2720,
+            "stars": 2722,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -49,7 +49,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2720,
+            "stars": 2722,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -79,7 +79,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2720,
+            "stars": 2722,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -109,7 +109,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2720,
+            "stars": 2722,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -139,7 +139,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2720,
+            "stars": 2722,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -910,7 +910,7 @@
             "open_issues": 460,
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30707,
+            "stars": 30708,
             "topics": [
               "audit",
               "best-practices",
@@ -961,7 +961,7 @@
             "open_issues": 233,
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 7058,
+            "stars": 7059,
             "topics": [
               "lighthouse",
               "webperf"
@@ -1215,7 +1215,7 @@
             "open_issues": 112,
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32613,
+            "stars": 32615,
             "topics": [
               "avif",
               "crop",
@@ -2196,7 +2196,7 @@
             "open_issues": 45,
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13383,
+            "stars": 13382,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
@@ -2217,7 +2217,7 @@
             "open_issues": 351,
             "owner": "terser",
             "repo": "terser",
-            "stars": 9327,
+            "stars": 9326,
             "topics": [
               "compressor",
               "es6",
@@ -2837,7 +2837,7 @@
             "open_issues": 209,
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17716,
+            "stars": 17717,
             "topics": [
               "javascript",
               "lazy-evaluation",
@@ -3380,7 +3380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:57.692Z",
+    "last_updated": "2026-08-29T11:47:05.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Web Performance Optimization. ",
@@ -3392,7 +3392,7 @@
       "open_issues": 21,
       "owner": "davidsonfellipe",
       "repo": "awesome-wpo",
-      "stars": 9054,
+      "stars": 9055,
       "topics": [
         "awesome",
         "awesome-list",

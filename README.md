@@ -1,6 +1,6 @@
 # Awesome WPO with stars
 
-[![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors) ⭐ 9,054 | 🐛 21 | 📅 2026-07-28
+[![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors) ⭐ 9,055 | 🐛 21 | 📅 2026-07-28
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
 
 Welcome to the curated list of Web Performance Optimization resources. This repository aims to gather the best tools, articles, blogs, books, and talks related to optimizing website performance. Whether you're a developer, designer, or performance enthusiast, you'll find valuable content here to supercharge your web projects.
@@ -56,11 +56,11 @@ Here's a quick overview of the categories covered in this collection:
 
 > Agent skills for web quality audits and optimization workflows.
 
-* [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) ⭐ 2,720 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Comprehensive quality review across all categories.
-* [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) ⭐ 2,720 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - LCP, INP, and CLS specific optimizations.
-* [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) ⭐ 2,720 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - WCAG compliance, screen reader support, and keyboard navigation.
-* [performance](https://github.com/addyosmani/web-quality-skills#performance) ⭐ 2,720 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Loading speed, runtime efficiency, and resource optimization.
-* [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) ⭐ 2,720 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Security, modern APIs, and code quality patterns.
+* [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) ⭐ 2,722 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Comprehensive quality review across all categories.
+* [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) ⭐ 2,722 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - LCP, INP, and CLS specific optimizations.
+* [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) ⭐ 2,722 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - WCAG compliance, screen reader support, and keyboard navigation.
+* [performance](https://github.com/addyosmani/web-quality-skills#performance) ⭐ 2,722 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Loading speed, runtime efficiency, and resource optimization.
+* [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) ⭐ 2,722 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Security, modern APIs, and code quality patterns.
 
 ## Articles
 
@@ -242,9 +242,9 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Core Web Vitals
 
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 30,707 | 🐛 460 | 🌐 JavaScript | 📅 2026-08-28 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 30,708 | 🐛 460 | 🌐 JavaScript | 📅 2026-08-28 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
 * [web-vitals](https://github.com/GoogleChrome/web-vitals) ⭐ 8,597 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-26 - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
-* [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) ⭐ 7,058 | 🐛 233 | 🌐 JavaScript | 📅 2026-03-27 - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
+* [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) ⭐ 7,059 | 🐛 233 | 🌐 JavaScript | 📅 2026-03-27 - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
 
 ## Extensions
 
@@ -271,7 +271,7 @@ Here's a quick overview of the categories covered in this collection:
 
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
-* [Sharp](https://github.com/lovell/sharp) ⭐ 32,613 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-28 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
+* [Sharp](https://github.com/lovell/sharp) ⭐ 32,615 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-28 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
 * [Gm](https://github.com/aheckmann/gm) ⭐ 6,978 | 🐛 366 | 🌐 JavaScript | 📅 2025-02-25 - GraphicsMagick and ImageMagick for Node.js.
 * [Imagemin](https://github.com/imagemin/imagemin) ⭐ 5,722 | 🐛 79 | 🌐 JavaScript | 📅 2025-03-07 - Minify images seamlessly with Node.js.
 * [mozjpeg](https://github.com/mozilla/mozjpeg) ⭐ 5,718 | 🐛 102 | 🌐 C | 📅 2025-06-23 - Improved JPEG encoder.
@@ -343,8 +343,8 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Minifiers
 
-* [UglifyJS2](https://github.com/mishoo/UglifyJS) ⭐ 13,383 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
-* [Terser](https://github.com/terser/terser) ⭐ 9,327 | 🐛 351 | 🌐 JavaScript | 📅 2026-08-27 - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
+* [UglifyJS2](https://github.com/mishoo/UglifyJS) ⭐ 13,382 | 🐛 45 | 🌐 JavaScript | 📅 2024-11-22 - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
+* [Terser](https://github.com/terser/terser) ⭐ 9,326 | 🐛 351 | 🌐 JavaScript | 📅 2026-08-27 - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
 * [HTMLMinifier](https://github.com/kangax/html-minifier) ⭐ 5,037 | 🐛 107 | 🌐 JavaScript | 📅 2026-03-26 - Highly configurable, well-tested, JavaScript-based HTML minifier with lint-like capabilities.
 * [Clean-css](https://github.com/clean-css/clean-css) ⭐ 4,200 | 🐛 45 | 🌐 JavaScript | 📅 2024-10-18 - A fast, efficient, and well-tested CSS minifier for node.js.
 * [Grunt-uncss](https://github.com/uncss/grunt-uncss) ⭐ 3,792 | 🐛 9 | 🌐 HTML | 📅 2023-07-18 - A grunt task for removing unused CSS from your projects.
@@ -377,7 +377,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Miscellaneous
 
 * [react-virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,081 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-20 - React components for efficiently rendering large lists and tabular data by virtualizing visible rows.
-* [Lazysizes](https://github.com/aFarkas/lazysizes) ⭐ 17,716 | 🐛 209 | 🌐 JavaScript | 📅 2024-04-03 - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+* [Lazysizes](https://github.com/aFarkas/lazysizes) ⭐ 17,717 | 🐛 209 | 🌐 JavaScript | 📅 2024-04-03 - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * [Critical](https://github.com/addyosmani/critical) ⭐ 10,266 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - Extract & Inline Critical-path CSS in HTML pages (alpha).
 * [Fontaine](https://github.com/unjs/fontaine) ⭐ 1,983 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-28 - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
 * [TMI](https://github.com/addyosmani/tmi) ⭐ 1,614 | 🐛 6 | 🌐 JavaScript | 📅 2017-02-14 - Too Many Images: discover your image weight on the web.
@@ -444,7 +444,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Contributing
 
-For contributing, please check [contributing.md](contributing.md), then [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) ⭐ 9,054 | 🐛 21 | 📅 2026-07-28 and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls) ⭐ 9,054 | 🐛 21 | 📅 2026-07-28.
+For contributing, please check [contributing.md](contributing.md), then [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) ⭐ 9,055 | 🐛 21 | 📅 2026-07-28 and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls) ⭐ 9,055 | 🐛 21 | 📅 2026-07-28.
 
 ***
 
