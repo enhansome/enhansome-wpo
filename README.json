@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+            "homepage": null,
             "id": 1136782037,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2719
+            "stars": 2720,
+            "topics": [
+              "accessibility",
+              "agent-skills",
+              "claude-skills",
+              "core-web-vitals",
+              "lighthouse",
+              "skills",
+              "testing",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -26,12 +40,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+            "homepage": null,
             "id": 1136782037,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2719
+            "stars": 2720,
+            "topics": [
+              "accessibility",
+              "agent-skills",
+              "claude-skills",
+              "core-web-vitals",
+              "lighthouse",
+              "skills",
+              "testing",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -42,12 +70,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+            "homepage": null,
             "id": 1136782037,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2719
+            "stars": 2720,
+            "topics": [
+              "accessibility",
+              "agent-skills",
+              "claude-skills",
+              "core-web-vitals",
+              "lighthouse",
+              "skills",
+              "testing",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -58,12 +100,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+            "homepage": null,
             "id": 1136782037,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2719
+            "stars": 2720,
+            "topics": [
+              "accessibility",
+              "agent-skills",
+              "claude-skills",
+              "core-web-vitals",
+              "lighthouse",
+              "skills",
+              "testing",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -74,12 +130,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.",
+            "homepage": null,
             "id": 1136782037,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2719
+            "stars": 2720,
+            "topics": [
+              "accessibility",
+              "agent-skills",
+              "claude-skills",
+              "core-web-vitals",
+              "lighthouse",
+              "skills",
+              "testing",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -96,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web Tracing Framework libraries and extensions.",
+            "homepage": "http://google.github.io/tracing-framework/",
             "id": 6601918,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-12-10T20:36:52Z",
+            "open_issues": 119,
             "owner": "google",
             "repo": "tracing-framework",
-            "stars": 2625
+            "stars": 2625,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -112,12 +187,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load and performance benchmark tool",
+            "homepage": null,
             "id": 5150693,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T13:21:12Z",
+            "open_issues": 84,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2596
+            "stars": 2597,
+            "topics": [
+              "framework",
+              "load-testing",
+              "performance",
+              "performance-test",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -128,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.",
+            "homepage": "yslow.org",
             "id": 3267913,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-02-17T15:15:27Z",
+            "open_issues": 141,
             "owner": "marcelduran",
             "repo": "yslow",
-            "stars": 2200
+            "stars": 2200,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -144,12 +235,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect performance metrics for your library/application.",
+            "homepage": null,
             "id": 89914790,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-24T17:31:36Z",
+            "open_issues": 7,
             "owner": "speedracer",
             "repo": "speedracer",
-            "stars": 1849
+            "stars": 1849,
+            "topics": [
+              "chrome-headless",
+              "performance",
+              "performance-analysis",
+              "performance-metrics",
+              "performance-test",
+              "performance-testing",
+              "runner"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -160,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grunt task for performance budgeting.",
+            "homepage": null,
             "id": 19822659,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-01T11:52:08Z",
+            "open_issues": 20,
             "owner": "tkadlec",
             "repo": "grunt-perfbudget",
-            "stars": 847
+            "stars": 847,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -176,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grunt WebPageTest plugin for measure with time",
+            "homepage": null,
             "id": 15286736,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-17T02:32:03Z",
+            "open_issues": 3,
             "owner": "sideroad",
             "repo": "grunt-wpt",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -192,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highlights Parts of the Page Where Specific WebFonts are Used",
+            "homepage": null,
             "id": 96431732,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-21T02:12:18Z",
+            "open_issues": 0,
             "owner": "paulcalvano",
             "repo": "webfont-usage-analyzer",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -208,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP Redirect Chain Analyzer - API-first tool for developers to check where URLs really go",
+            "homepage": "https://redirect-checker.autocompany.workers.dev",
             "id": 1160423566,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-17T23:58:00Z",
+            "open_issues": 0,
             "owner": "brancogao",
             "repo": "redirect-checker",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -230,12 +354,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
+            "homepage": null,
             "id": 71966177,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:35:43Z",
+            "open_issues": 27,
             "owner": "webpack",
             "repo": "webpack-bundle-analyzer",
-            "stars": 12661
+            "stars": 12660,
+            "topics": [
+              "analyze",
+              "bundle",
+              "chart",
+              "interactive",
+              "size",
+              "treemap",
+              "webpack",
+              "webpack-bundle-analyzer"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -246,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep your bundle size in check",
+            "homepage": null,
             "id": 95533278,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T12:28:26Z",
+            "open_issues": 83,
             "owner": "siddharthkp",
             "repo": "bundlesize",
-            "stars": 4474
+            "stars": 4474,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -262,12 +405,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyze and debug space usage through source maps",
+            "homepage": null,
             "id": 44349554,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-14T16:39:24Z",
+            "open_issues": 57,
             "owner": "danvk",
             "repo": "source-map-explorer",
-            "stars": 3933
+            "stars": 3933,
+            "topics": [
+              "javascript",
+              "minification",
+              "source-map",
+              "treemap"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -278,12 +431,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prepare compressed versions of assets to serve them with Content-Encoding",
+            "homepage": null,
             "id": 11895397,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T19:56:22Z",
+            "open_issues": 13,
             "owner": "webpack",
             "repo": "compression-webpack-plugin",
-            "stars": 1425
+            "stars": 1425,
+            "topics": [
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -294,12 +454,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.",
+            "homepage": "https://relative-ci.com/documentation/metrics-and-data",
             "id": 121169275,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:12:11Z",
+            "open_issues": 50,
             "owner": "relative-ci",
             "repo": "bundle-stats",
-            "stars": 672
+            "stars": 672,
+            "topics": [
+              "bundle-analyzer",
+              "bundle-size",
+              "bundle-stats",
+              "bundlesize",
+              "gatsby-plugin",
+              "nextjs-plugin",
+              "rolldown-plugin",
+              "rollup",
+              "rollup-plugin",
+              "vite",
+              "vite-plugin",
+              "webpack",
+              "webpack-analyzer",
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -310,12 +490,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 📊 Analyzing bundles created by Lasso js.",
+            "homepage": "https://pajaydev.github.io/lasso-analyzer/",
             "id": 140921608,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-10T17:06:16Z",
+            "open_issues": 4,
             "owner": "pajaydev",
             "repo": "lasso-analyzer",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "bundle-analyzer",
+              "lasso",
+              "lasso-bundle-analyzer",
+              "lasso-marko",
+              "lasso-plugin"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -332,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Performance Monitor",
+            "homepage": "http://mrdoob.github.io/stats.js/",
             "id": 600637,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-11T03:59:02Z",
+            "open_issues": 22,
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9150
+            "stars": 9150,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -348,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "minimal monitor for JS Heap Size via performance.memory",
+            "homepage": null,
             "id": 29575447,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-07-03T19:31:33Z",
+            "open_issues": 3,
             "owner": "paulirish",
             "repo": "memory-stats.js",
-            "stars": 2091
+            "stars": 2091,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -364,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Navigation Timing API measurement helpers",
+            "homepage": null,
             "id": 24289860,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-02T05:05:27Z",
+            "open_issues": 10,
             "owner": "addyosmani",
             "repo": "timing.js",
-            "stars": 1478
+            "stars": 1478,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -380,12 +586,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jsperf.com v2. https://github.com/h5bp/lazyweb-requests/issues/174",
+            "homepage": "https://jsperf.com/",
             "id": 30963708,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-23T05:41:07Z",
+            "open_issues": 47,
             "owner": "jsperf",
             "repo": "jsperf.com",
-            "stars": 1297
+            "stars": 1297,
+            "topics": [
+              "benchmark",
+              "benchmarking",
+              "javascript",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -396,12 +612,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "**Archived.** Derping around with measuring CSS performance.",
+            "homepage": "http://mdo.github.io/css-perf/",
             "id": 17200250,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-06-22T15:39:17Z",
+            "open_issues": 0,
             "owner": "mdo",
             "repo": "css-perf",
-            "stars": 569
+            "stars": 569,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -412,12 +633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A caffeine driven, simplistic approach to benchmarking.",
+            "homepage": null,
             "id": 2915220,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-09-04T21:26:52Z",
+            "open_issues": 17,
             "owner": "logicalparadox",
             "repo": "matcha",
-            "stars": 561
+            "stars": 561,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -428,12 +654,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, easy, javascript benchmark testing",
+            "homepage": null,
             "id": 861851,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2010-08-27T13:45:43Z",
+            "open_issues": 0,
             "owner": "broofa",
             "repo": "jslitmus",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -444,12 +675,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realtime benchmarks for PHP code",
+            "homepage": null,
             "id": 22953173,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-21T13:16:18Z",
+            "open_issues": 3,
             "owner": "mre",
             "repo": "PHPench",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "algorithms",
+              "benchmark",
+              "comparison",
+              "framework",
+              "gnuplot",
+              "php",
+              "profiling",
+              "realtime",
+              "realtime-metrics"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -460,12 +706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking PHP, the easy way",
+            "homepage": null,
             "id": 26747999,
             "language": "PHP",
+            "license": null,
             "last_commit": "2015-02-02T04:04:48Z",
+            "open_issues": 0,
             "owner": "jacobbednarz",
             "repo": "php-bench",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -476,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript inheritance performance tests done right",
+            "homepage": null,
             "id": 31413907,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-05-02T12:23:30Z",
+            "open_issues": 1,
             "owner": "kogarashisan",
             "repo": "PerfTests",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -498,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front-end performance heatmap bookmarklet.",
+            "homepage": null,
             "id": 24162262,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-12T00:10:57Z",
+            "open_issues": 12,
             "owner": "zeman",
             "repo": "perfmap",
-            "stars": 3766
+            "stars": 3766,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -514,12 +775,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.",
+            "homepage": null,
             "id": 24830227,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T11:28:45Z",
+            "open_issues": 15,
             "owner": "micmro",
             "repo": "performance-bookmarklet",
-            "stars": 1154
+            "stars": 1154,
+            "topics": [
+              "analyzer",
+              "bookmarklet",
+              "browser-extension",
+              "navigation-timing",
+              "performance",
+              "performance-metrics",
+              "requests",
+              "resource-timing",
+              "user-timing",
+              "waterfall",
+              "webperf"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -530,12 +808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://mir.aculo.us/dom-monster",
             "id": 1233116,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-15T04:25:26Z",
+            "open_issues": 21,
             "owner": "madrobby",
             "repo": "dom-monster",
-            "stars": 557
+            "stars": 557,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -552,12 +835,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM",
+            "homepage": "https://www.jsdelivr.com",
             "id": 5022564,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-27T18:21:13Z",
+            "open_issues": 31,
             "owner": "jsdelivr",
             "repo": "jsdelivr",
-            "stars": 6350
+            "stars": 6350,
+            "topics": [
+              "cdn",
+              "cdn-providers",
+              "distribution",
+              "esm",
+              "esmodules",
+              "http",
+              "infrastructure",
+              "javascript",
+              "jsdelivr",
+              "npm",
+              "npm-cdn",
+              "traffic"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -568,12 +869,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Replaces script references with Google CDN ones",
+            "homepage": null,
             "id": 15588976,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-23T11:50:19Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gulp-google-cdn",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "google-cdn",
+              "gulp-plugin",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -590,12 +901,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated auditing, performance metrics, and best practices for the web.",
+            "homepage": "https://developer.chrome.com/docs/lighthouse/overview/",
             "id": 53370988,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T16:34:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:40:54Z",
+            "open_issues": 460,
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30707
+            "stars": 30707,
+            "topics": [
+              "audit",
+              "best-practices",
+              "chrome-devtools",
+              "developer-tools",
+              "performance-analysis",
+              "performance-metrics",
+              "pwa",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -606,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Essential metrics for a healthy site.",
+            "homepage": "https://web.dev/vitals",
             "id": 249512698,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:06:24Z",
+            "open_issues": 13,
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8596
+            "stars": 8597,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -622,12 +952,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate running Lighthouse for every commit, viewing the changes, and preventing regressions",
+            "homepage": null,
             "id": 180241820,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-27T19:57:30Z",
+            "open_issues": 233,
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 7059
+            "stars": 7058,
+            "topics": [
+              "lighthouse",
+              "webperf"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -644,12 +982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glue is a simple command line tool to generate CSS sprites",
+            "homepage": "http://glue.readthedocs.org",
             "id": 3083478,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-11-29T18:01:31Z",
+            "open_issues": 69,
             "owner": "jorgebastida",
             "repo": "glue",
-            "stars": 2530
+            "stars": 2530,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -660,12 +1003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grunt task for converting a set of images into a spritesheet and corresponding CSS variables",
+            "homepage": null,
             "id": 5468551,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-27T04:35:29Z",
+            "open_issues": 2,
             "owner": "twolfson",
             "repo": "grunt-spritesmith",
-            "stars": 1130
+            "stars": 1130,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -676,12 +1024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic CSS Sprite Generator",
+            "homepage": "https://jakesgordon.com/writing/sprite-factory/",
             "id": 1683042,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-06-01T22:55:35Z",
+            "open_issues": 13,
             "owner": "jakesgordon",
             "repo": "sprite-factory",
-            "stars": 618
+            "stars": 618,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -692,12 +1045,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A image sprite generator",
+            "homepage": null,
             "id": 34257932,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-18T13:14:12Z",
+            "open_issues": 60,
             "owner": "sprity",
             "repo": "sprity",
-            "stars": 479
+            "stars": 479,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -708,12 +1066,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create SVG sprites or compile to <symbols>",
+            "homepage": null,
             "id": 17764655,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-04T20:18:24Z",
+            "open_issues": 44,
             "owner": "shakyShane",
             "repo": "gulp-svg-sprites",
-            "stars": 329
+            "stars": 329,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -724,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AssetGraph plugin for creating sprites from background images",
+            "homepage": null,
             "id": 1940646,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T19:41:46Z",
+            "open_issues": 9,
             "owner": "assetgraph",
             "repo": "assetgraph-sprite",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -740,12 +1108,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use JavaScript to generate JavaScript",
+            "homepage": "atbuild.vercel.app",
             "id": 303250302,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-11-22T00:07:55Z",
+            "open_issues": 2,
             "owner": "Jarred-Sumner",
             "repo": "atbuild",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "babel",
+              "build-tool",
+              "code-generation",
+              "codegen",
+              "esbuild",
+              "preprocessor",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -756,12 +1137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic dynamic sprite generator",
+            "homepage": "pitomba.org",
             "id": 5134060,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2014-10-10T15:36:23Z",
+            "open_issues": 8,
             "owner": "pitomba",
             "repo": "spriter",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -772,12 +1158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gulp task for creating image sprites and the corresponding stylesheets",
+            "homepage": null,
             "id": 16052150,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-20T15:49:25Z",
+            "open_issues": 5,
             "owner": "aslansky",
             "repo": "gulp-sprite",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -788,12 +1179,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "renders SVG in CSS file using data URIs or base64",
+            "homepage": null,
             "id": 30462657,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-05-23T10:51:35Z",
+            "open_issues": 0,
             "owner": "kajyr",
             "repo": "SvgToCSS",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -810,12 +1206,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+            "homepage": "https://sharp.pixelplumbing.com",
             "id": 12226786,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:55:59Z",
+            "open_issues": 112,
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32611
+            "stars": 32613,
+            "topics": [
+              "avif",
+              "crop",
+              "exif",
+              "icc",
+              "image",
+              "image-processing",
+              "javascript",
+              "jpeg",
+              "libvips",
+              "nodejs",
+              "performance",
+              "png",
+              "resize",
+              "sharp",
+              "svg",
+              "tiff",
+              "webp"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -826,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphicsMagick for node",
+            "homepage": null,
             "id": 715524,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-25T02:44:49Z",
+            "open_issues": 366,
             "owner": "aheckmann",
             "repo": "gm",
-            "stars": 6978
+            "stars": 6978,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -842,12 +1266,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify images seamlessly",
+            "homepage": null,
             "id": 14105478,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-07T09:39:56Z",
+            "open_issues": 79,
             "owner": "imagemin",
             "repo": "imagemin",
-            "stars": 5722
+            "stars": 5722,
+            "topics": [
+              "buffer",
+              "gif",
+              "imagemin",
+              "jpg",
+              "minify",
+              "nodejs",
+              "optimization",
+              "png",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -858,12 +1297,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improved JPEG encoder.",
+            "homepage": null,
             "id": 15837676,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-23T17:05:27Z",
+            "open_issues": 102,
             "owner": "mozilla",
             "repo": "mozjpeg",
-            "stars": 5718
+            "stars": 5718,
+            "topics": [
+              "image-optimization",
+              "jpeg-encoder",
+              "libjpeg",
+              "mozjpeg",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -874,12 +1324,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make optimisation of images part of your automated build process",
+            "homepage": "https://foldleft.io/image-tools",
             "id": 8222847,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-02T12:05:03Z",
+            "open_issues": 3,
             "owner": "JamieMason",
             "repo": "ImageOptim-CLI",
-            "stars": 3530
+            "stars": 3530,
+            "topics": [
+              "advpng",
+              "compress",
+              "gifsicle",
+              "image-optimisation",
+              "imagealpha",
+              "imageoptim",
+              "jpegmini",
+              "jpegoptim",
+              "jpegtran",
+              "optimize",
+              "optipng",
+              "performance",
+              "pngcrush",
+              "pngout",
+              "pngquant",
+              "site-speed",
+              "webperf"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -890,12 +1363,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify PNG, JPEG, GIF and SVG images",
+            "homepage": null,
             "id": 15533082,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-11T06:45:37Z",
+            "open_issues": 23,
             "owner": "sindresorhus",
             "repo": "gulp-imagemin",
-            "stars": 1904
+            "stars": 1904,
+            "topics": [
+              "compress-images",
+              "gulp-plugin",
+              "imagemin",
+              "javascript",
+              "minify-images",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -906,12 +1391,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jpegoptim - utility to optimize/compress JPEG files",
+            "homepage": "http://www.iki.fi/tjko/projects.html",
             "id": 2448559,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-01T01:15:03Z",
+            "open_issues": 12,
             "owner": "tjko",
             "repo": "jpegoptim",
-            "stars": 1809
+            "stars": 1809,
+            "topics": [
+              "image-optimization",
+              "jpeg-encoder",
+              "jpegoptim",
+              "libjpeg"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -922,12 +1417,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify PNG, JPG, GIF and SVG images.",
+            "homepage": "https://gruntjs.com",
             "id": 6441855,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-02T05:13:08Z",
+            "open_issues": 8,
             "owner": "gruntjs",
             "repo": "grunt-contrib-imagemin",
-            "stars": 1205
+            "stars": 1205,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -938,12 +1440,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lightweight lossless file minifier/optimizer",
+            "homepage": null,
             "id": 8079877,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-06-05T06:39:50Z",
+            "open_issues": 20,
             "owner": "JayXon",
             "repo": "Leanify",
-            "stars": 851
+            "stars": 851,
+            "topics": [
+              "compression",
+              "data-uri",
+              "epub",
+              "fb2",
+              "gzip",
+              "ico",
+              "jpeg",
+              "lossless",
+              "minifier",
+              "minify",
+              "mozjpeg",
+              "optimizer",
+              "png",
+              "recompress",
+              "svg",
+              "swf",
+              "tar",
+              "xml",
+              "zip",
+              "zopfli"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -954,12 +1482,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated image compression for efficiently distributing images on the web.",
+            "homepage": "https://imager.io",
             "id": 219357115,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2021-04-18T23:14:33Z",
+            "open_issues": 8,
             "owner": "imager-io",
             "repo": "imager",
-            "stars": 729
+            "stars": 729,
+            "topics": [
+              "compression",
+              "image",
+              "image-compression",
+              "image-optimization",
+              "image-processing",
+              "jpeg",
+              "jpeg-image",
+              "jpeg-image-compression",
+              "optimization",
+              "page-speed",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -970,12 +1515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process",
+            "homepage": "http://jamiemason.github.io/ImageOptim-CLI/",
             "id": 10155909,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-08-04T17:20:32Z",
+            "open_issues": 3,
             "owner": "JamieMason",
             "repo": "grunt-imageoptim",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -986,12 +1536,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert images to WebP",
+            "homepage": null,
             "id": 15568225,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-10T09:34:38Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gulp-webp",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "convert-images",
+              "gulp-plugin",
+              "image-processing",
+              "javascript",
+              "nodejs",
+              "webp"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1002,12 +1564,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI image optimization tool",
+            "homepage": null,
             "id": 661981108,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-27T02:46:51Z",
+            "open_issues": 0,
             "owner": "343dev",
             "repo": "optimizt",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "avif",
+              "gif",
+              "gif2webp",
+              "gifsicle",
+              "guetzli",
+              "image-compression",
+              "jpeg",
+              "png",
+              "sharp",
+              "svg",
+              "svgo",
+              "webp"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1018,12 +1598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert your images to WebP format.",
+            "homepage": null,
             "id": 9425799,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-02-21T17:55:53Z",
+            "open_issues": 5,
             "owner": "somerandomdude",
             "repo": "grunt-webp",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1034,12 +1619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grunt task to optimize images using reSmush.it",
+            "homepage": null,
             "id": 4655193,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-03-27T15:04:48Z",
+            "open_issues": 0,
             "owner": "heldr",
             "repo": "grunt-smushit",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1050,12 +1640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gulp plugin to optimize PNG and JPG using reSmush.it.",
+            "homepage": null,
             "id": 25072698,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-08T21:12:05Z",
+            "open_issues": 3,
             "owner": "heldr",
             "repo": "gulp-smushit",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1066,12 +1661,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI bash script to optimize images in parallel easily and efficiently!",
+            "homepage": null,
             "id": 112129832,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-21T15:22:30Z",
+            "open_issues": 0,
             "owner": "JafarAkhondali",
             "repo": "Tapnesh",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "image",
+              "image-optimization",
+              "optimization",
+              "seo",
+              "seotools"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -1088,12 +1694,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time",
+            "homepage": "https://getquick.link",
             "id": 158873969,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T23:46:03Z",
+            "open_issues": 35,
             "owner": "GoogleChromeLabs",
             "repo": "quicklink",
-            "stars": 11271
+            "stars": 11269,
+            "topics": [
+              "performance",
+              "prefetch",
+              "prefetcher",
+              "speed",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1104,12 +1721,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more",
+            "homepage": "https://apoorv.pro/lozad.js/demo/",
             "id": 101684931,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-18T11:58:15Z",
+            "open_issues": 68,
             "owner": "ApoorvSaxena",
             "repo": "lozad.js",
-            "stars": 7495
+            "stars": 7495,
+            "topics": [
+              "hacktoberfest",
+              "html",
+              "images",
+              "javascript",
+              "lazy-loading",
+              "lazyload",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1120,12 +1750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bullettrain_front: Lazyload images, iframes, widgets with a standalone JavaScript lazyloader",
+            "homepage": "https://vvo.github.io/lazyload/",
             "id": 3325000,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-16T10:30:28Z",
+            "open_issues": 9,
             "owner": "vvo",
             "repo": "lazyload",
-            "stars": 933
+            "stars": 933,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -1142,12 +1777,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web",
+            "homepage": "https://guess-js.github.io/",
             "id": 127689297,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:43:09Z",
+            "open_issues": 36,
             "owner": "guess-js",
             "repo": "guess",
-            "stars": 7119
+            "stars": 7119,
+            "topics": [
+              "hacktoberfest",
+              "machine-learning",
+              "performance",
+              "prefetch",
+              "prerender",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1158,12 +1805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InstantClick makes following links in your website instant.",
+            "homepage": "instantclick.io",
             "id": 14640245,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-06-06T14:25:22Z",
+            "open_issues": 54,
             "owner": "dieulot",
             "repo": "instantclick",
-            "stars": 5483
+            "stars": 5483,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1174,12 +1826,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The only script in your HEAD.",
+            "homepage": "https://headjs.github.io/",
             "id": 1121880,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-20T20:28:14Z",
+            "open_issues": 66,
             "owner": "headjs",
             "repo": "headjs",
-            "stars": 4118
+            "stars": 4118,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1190,12 +1847,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Loading And Blocking JavaScript: On-demand parallel loader for JavaScript with execution order dependencies",
+            "homepage": "http://labjs.com",
             "id": 365027,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-07-17T23:35:04Z",
+            "open_issues": 13,
             "owner": "getify",
             "repo": "LABjs",
-            "stars": 2259
+            "stars": 2259,
+            "topics": [
+              "performance",
+              "script-loader"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1206,12 +1871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JIT(Just In Time) plugin loader for Grunt.",
+            "homepage": null,
             "id": 15334289,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-11T08:04:20Z",
+            "open_issues": 11,
             "owner": "shootaroo",
             "repo": "jit-grunt",
-            "stars": 504
+            "stars": 504,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1222,12 +1892,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast webpages for all browsers.",
+            "homepage": null,
             "id": 254206702,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-01T09:02:23Z",
+            "open_issues": 1,
             "owner": "genderev",
             "repo": "prerender.js",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "performance",
+              "prediction",
+              "prerender",
+              "prerendering",
+              "speed",
+              "web-development",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1238,12 +1921,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async Everything: Make the meat of your pages load faster with this JS morsel",
+            "homepage": null,
             "id": 3175074,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2013-04-06T17:22:18Z",
+            "open_issues": 1,
             "owner": "wessman",
             "repo": "defer.js",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "javascript-async"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -1260,12 +1950,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web performance library for measuring all performance vitals metrics",
+            "homepage": "https://zizzamia.github.io/perfume/",
             "id": 113699658,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-25T03:16:29Z",
+            "open_issues": 19,
             "owner": "Zizzamia",
             "repo": "perfume.js",
-            "stars": 3204
+            "stars": 3204,
+            "topics": [
+              "cls",
+              "fcp",
+              "fid",
+              "lcp",
+              "metrics",
+              "monitorning",
+              "navigation-timing",
+              "network-information",
+              "performance",
+              "performance-monitoring",
+              "resource-timing",
+              "tbt",
+              "ttfb",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1276,12 +1986,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Headless Chromium-based web performance metrics collector and monitoring tool",
+            "homepage": "https://www.npmjs.com/package/phantomas",
             "id": 4939243,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-24T15:53:38Z",
+            "open_issues": 66,
             "owner": "macbre",
             "repo": "phantomas",
-            "stars": 2260
+            "stars": 2260,
+            "topics": [
+              "automation",
+              "chromium",
+              "css",
+              "developer-tools",
+              "dom",
+              "domquery",
+              "headless-chrome",
+              "http2",
+              "http3",
+              "javascript",
+              "jquery",
+              "metrics",
+              "phantomas",
+              "puppeteer",
+              "webperf",
+              "webperformance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1292,12 +2024,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating Web Performance testing with Puppeteer 🎪",
+            "homepage": null,
             "id": 258936782,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-18T10:55:29Z",
+            "open_issues": 18,
             "owner": "addyosmani",
             "repo": "puppeteer-webperf",
-            "stars": 1858
+            "stars": 1858,
+            "topics": [
+              "chrome",
+              "chrome-devtools",
+              "devtools",
+              "lighthouse",
+              "puppeteer",
+              "puppeteer-demo",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1308,12 +2053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebPageTest API wrapper for NodeJS",
+            "homepage": null,
             "id": 5969906,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-03T09:00:06Z",
+            "open_issues": 58,
             "owner": "catchpoint",
             "repo": "WebPageTest.api-nodejs",
-            "stars": 1635
+            "stars": 1635,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1324,12 +2074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-browser web performance testing agent",
+            "homepage": null,
             "id": 1080635546,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T19:53:52Z",
+            "open_issues": 57,
             "owner": "cloudflare",
             "repo": "telescope",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1340,12 +2095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grunt plugin wrapping phantomas to measure frontend performance",
+            "homepage": null,
             "id": 14966927,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-09T20:31:30Z",
+            "open_issues": 16,
             "owner": "stefanjudis",
             "repo": "grunt-phantomas",
-            "stars": 280
+            "stars": 280,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1356,12 +2116,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":horse_racing: A model driven framework for the evaluation web page performance",
+            "homepage": null,
             "id": 13028272,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-23T15:39:25Z",
+            "open_issues": 5,
             "owner": "keepfast",
             "repo": "keepfast",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1372,12 +2139,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Benchmark a web page and display results with a pretty UI.",
+            "homepage": "http://bench.mervine.net/",
             "id": 11838899,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-09-20T20:52:33Z",
+            "open_issues": 4,
             "owner": "jmervine",
             "repo": "bench",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1388,12 +2160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test script & demo use case for Perfjankie",
+            "homepage": null,
             "id": 25307241,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-10-16T15:56:23Z",
+            "open_issues": 0,
             "owner": "asciidisco",
             "repo": "perfjankie-test",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -1410,12 +2187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " JavaScript parser / mangler / compressor / beautifier toolkit",
+            "homepage": "http://lisperator.net/uglifyjs/",
             "id": 5569059,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-22T08:11:38Z",
+            "open_issues": 45,
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13383
+            "stars": 13383,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1426,12 +2208,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗜 JavaScript parser, mangler and compressor toolkit for ES6+",
+            "homepage": "https://terser.org",
             "id": 29097127,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T11:26:24Z",
+            "open_issues": 351,
             "owner": "terser",
             "repo": "terser",
-            "stars": 9327
+            "stars": 9327,
+            "topics": [
+              "compressor",
+              "es6",
+              "javascript",
+              "mangler",
+              "parser",
+              "uglifyjs"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1442,12 +2236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript-based HTML compressor/minifier (with Node.js support)",
+            "homepage": "http://kangax.github.io/html-minifier/",
             "id": 504220,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-26T11:35:43Z",
+            "open_issues": 107,
             "owner": "kangax",
             "repo": "html-minifier",
-            "stars": 5037
+            "stars": 5037,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1458,12 +2257,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and efficient CSS optimizer for node.js and the Web",
+            "homepage": "https://clean-css.github.io/",
             "id": 1419138,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-18T06:34:43Z",
+            "open_issues": 45,
             "owner": "clean-css",
             "repo": "clean-css",
-            "stars": 4200
+            "stars": 4200,
+            "topics": [
+              "clean-css",
+              "css",
+              "css-optimizations",
+              "css-optimizer",
+              "minification",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1474,12 +2285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":scissors: A grunt task for removing unused CSS from your projects.",
+            "homepage": null,
             "id": 12821113,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-07-18T21:07:56Z",
+            "open_issues": 9,
             "owner": "uncss",
             "repo": "grunt-uncss",
-            "stars": 3792
+            "stars": 3792,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1490,12 +2306,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS minifier with structural optimizations",
+            "homepage": "https://css.github.io/csso/csso.html",
             "id": 1369824,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-21T16:11:18Z",
+            "open_issues": 103,
             "owner": "css",
             "repo": "csso",
-            "stars": 3788
+            "stars": 3788,
+            "topics": [
+              "css",
+              "css-minifier",
+              "fast",
+              "minifier",
+              "usage-data"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1506,12 +2333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compresses linked and inline javascript or CSS into a single cached file.",
+            "homepage": "https://django-compressor.readthedocs.io",
             "id": 504028,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T07:02:51Z",
+            "open_issues": 121,
             "owner": "django-compressor",
             "repo": "django-compressor",
-            "stars": 2871
+            "stars": 2871,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1522,12 +2354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pipeline is an asset packaging library for Django.",
+            "homepage": "https://django-pipeline.readthedocs.io/",
             "id": 1843992,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T05:10:06Z",
+            "open_issues": 157,
             "owner": "jazzband",
             "repo": "django-pipeline",
-            "stars": 1540
+            "stars": 1540,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1538,12 +2375,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify files with UglifyJS.",
+            "homepage": "http://gruntjs.com/",
             "id": 6060783,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-22T03:26:10Z",
+            "open_issues": 30,
             "owner": "gruntjs",
             "repo": "grunt-contrib-uglify",
-            "stars": 1469
+            "stars": 1469,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1554,12 +2398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS minifier",
+            "homepage": null,
             "id": 21209548,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-09-09T13:51:19Z",
+            "open_issues": 22,
             "owner": "stoyan",
             "repo": "cssshrink",
-            "stars": 1043
+            "stars": 1043,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1570,12 +2419,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED. Remove unused CSS selectors.",
+            "homepage": null,
             "id": 15266592,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-08T20:02:10Z",
+            "open_issues": 3,
             "owner": "ben-eb",
             "repo": "gulp-uncss",
-            "stars": 928
+            "stars": 928,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1586,12 +2440,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concatenate files.",
+            "homepage": "http://gruntjs.com/",
             "id": 6059428,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-23T16:27:31Z",
+            "open_issues": 43,
             "owner": "gruntjs",
             "repo": "grunt-contrib-concat",
-            "stars": 798
+            "stars": 798,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1602,12 +2463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compress CSS files.",
+            "homepage": "http://gruntjs.com/",
             "id": 5721837,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-25T21:51:57Z",
+            "open_issues": 28,
             "owner": "gruntjs",
             "repo": "grunt-contrib-cssmin",
-            "stars": 790
+            "stars": 790,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1618,12 +2484,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript Minifier built in PHP ",
+            "homepage": "http://www.tedivm.com",
             "id": 3519018,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-11-20T14:35:07Z",
+            "open_issues": 15,
             "owner": "tedious",
             "repo": "JShrink",
-            "stars": 763
+            "stars": 763,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1634,12 +2507,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify HTML",
+            "homepage": "https://github.com/jonschlinkert",
             "id": 15343567,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2019-11-08T15:31:25Z",
+            "open_issues": 7,
             "owner": "jonschlinkert",
             "repo": "gulp-htmlmin",
-            "stars": 722
+            "stars": 722,
+            "topics": [
+              "gulp",
+              "gulpplugin",
+              "html",
+              "html-minifier",
+              "min",
+              "minifier",
+              "minify",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1650,12 +2537,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML minifier for Python frameworks (not only Django, despite the name).",
+            "homepage": "http://pypi.python.org/pypi/django-htmlmin",
             "id": 1738549,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-01-12T16:02:05Z",
+            "open_issues": 55,
             "owner": "cobrateam",
             "repo": "django-htmlmin",
-            "stars": 542
+            "stars": 542,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1666,12 +2560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify HTML.",
+            "homepage": "http://gruntjs.com/",
             "id": 6441869,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-22T01:51:52Z",
+            "open_issues": 2,
             "owner": "gruntjs",
             "repo": "grunt-contrib-htmlmin",
-            "stars": 421
+            "stars": 421,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1682,12 +2581,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimize HTML",
+            "homepage": null,
             "id": 8294053,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-23T12:18:05Z",
+            "open_issues": 27,
             "owner": "Swaagie",
             "repo": "minimize",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "dom",
+              "html-minifier",
+              "html-parser",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1698,12 +2607,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast command-line HTML minifier — works on any HTML, with special support for Razor and Web Forms views. Parallel processing, safe preservation of <pre>/<code>/Knockout blocks, and easy MSBuild/CI integration.",
+            "homepage": "http://deanhume.github.io/html-minifier/",
             "id": 13151870,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-29T17:15:43Z",
+            "open_issues": 0,
             "owner": "deanhume",
             "repo": "html-minifier",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "blazor",
+              "c-sharp",
+              "dotnet",
+              "html-minifier",
+              "knockout",
+              "msbuild",
+              "pagespeed",
+              "razor",
+              "razor-views",
+              "web-performance",
+              "web-performance-budget",
+              "web-performance-optimization",
+              "web-performance-score",
+              "web-performance-tools",
+              "webperformance"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1714,12 +2644,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "grunt plugin for html compression, using htmlcompressor.jar",
+            "homepage": null,
             "id": 5135697,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-11T21:45:16Z",
+            "open_issues": 2,
             "owner": "jney",
             "repo": "grunt-htmlcompressor",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1730,12 +2665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 🚨 [deprecated] Ruby gem for compressing html",
+            "homepage": null,
             "id": 3352341,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-04-13T22:39:08Z",
+            "open_issues": 0,
             "owner": "stereobooster",
             "repo": "html_press",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1746,12 +2686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "minify HTML responses like some crazy guy",
+            "homepage": null,
             "id": 20796723,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-28T16:57:07Z",
+            "open_issues": 3,
             "owner": "koajs",
             "repo": "html-minifier",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1762,12 +2707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A grunt wrapper for CSS Shrink",
+            "homepage": null,
             "id": 21232263,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-02-20T21:01:15Z",
+            "open_issues": 0,
             "owner": "JohnCashmore",
             "repo": "grunt-cssshrink",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1778,12 +2728,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shrinks CSS files using cssshrink",
+            "homepage": null,
             "id": 21231748,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-03-18T19:33:19Z",
+            "open_issues": 0,
             "owner": "torrottum",
             "repo": "gulp-cssshrink",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1794,12 +2749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby wrapper for kangax html-minifier",
+            "homepage": null,
             "id": 4255031,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-06-01T15:08:10Z",
+            "open_issues": 2,
             "owner": "stereobooster",
             "repo": "html_minifier",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1810,12 +2770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prettify or uglify CSS code",
+            "homepage": null,
             "id": 21023811,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-06-24T23:21:43Z",
+            "open_issues": 1,
             "owner": "stoyan",
             "repo": "prettyugly",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -1832,12 +2797,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React components for efficiently rendering large lists and tabular data",
+            "homepage": "http://bvaughn.github.io/react-virtualized/",
             "id": 45431898,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-20T21:42:24Z",
+            "open_issues": 1,
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27081
+            "stars": 27081,
+            "topics": [
+              "grid",
+              "list",
+              "listview",
+              "performance",
+              "react",
+              "react-components",
+              "tabular-data",
+              "virtualization",
+              "windowing"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1848,12 +2828,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.",
+            "homepage": null,
             "id": 25095239,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-03T08:17:04Z",
+            "open_issues": 209,
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17716
+            "stars": 17716,
+            "topics": [
+              "javascript",
+              "lazy-evaluation",
+              "lazyload",
+              "lazysizes",
+              "performance",
+              "responsive-images"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1864,12 +2856,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract & Inline Critical-path CSS in HTML pages",
+            "homepage": null,
             "id": 21299916,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T08:22:27Z",
+            "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10266
+            "stars": 10266,
+            "topics": [
+              "critical-css",
+              "critical-path-css",
+              "critical-path-styles",
+              "css",
+              "inline-css",
+              "inline-styles"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1880,12 +2884,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic font fallback based on font metrics",
+            "homepage": null,
             "id": 543064943,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:09:51Z",
+            "open_issues": 10,
             "owner": "unjs",
             "repo": "fontaine",
-            "stars": 1983
+            "stars": 1983,
+            "topics": [
+              "cls",
+              "fonts",
+              "hacktoberfest",
+              "web-vitals"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1896,12 +2910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TMI (Too Many Images) - discover your image weight on the web",
+            "homepage": null,
             "id": 26014537,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-02-14T07:36:56Z",
+            "open_issues": 6,
             "owner": "addyosmani",
             "repo": "tmi",
-            "stars": 1615
+            "stars": 1614,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1912,12 +2931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find unused and duplicate CSS",
+            "homepage": null,
             "id": 5283216,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-26T10:08:08Z",
+            "open_issues": 3,
             "owner": "oyvindeh",
             "repo": "ucss",
-            "stars": 1609
+            "stars": 1609,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1928,12 +2952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.",
+            "homepage": "https://www.npmjs.org/package/httpinvoke",
             "id": 11796195,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-25T08:55:17Z",
+            "open_issues": 4,
             "owner": "jakutis",
             "repo": "httpinvoke",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1944,12 +2973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS color minification module",
+            "homepage": null,
             "id": 20789789,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-05T22:03:01Z",
+            "open_issues": 0,
             "owner": "stoyan",
             "repo": "csscolormin",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -1966,12 +3000,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVG Optimizer for Node.js and CLI. ⚙️",
+            "homepage": "https://svgo.dev/",
             "id": 5508088,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:58:51Z",
+            "open_issues": 257,
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22655
+            "stars": 22657,
+            "topics": [
+              "cli",
+              "hacktoberfest",
+              "javascript",
+              "minification",
+              "nodejs",
+              "optimization",
+              "svg",
+              "svgo"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1982,12 +3030,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "svgcleaner could help you to clean up your SVG files from the unnecessary data.",
+            "homepage": null,
             "id": 3109532,
             "language": "Rust",
+            "license": "GPL-2.0",
             "last_commit": "2021-10-30T13:53:34Z",
+            "open_issues": 104,
             "owner": "RazrFalcon",
             "repo": "svgcleaner",
-            "stars": 1670
+            "stars": 1670,
+            "topics": [
+              "cleaner",
+              "rust",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1998,12 +3055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify SVG",
+            "homepage": null,
             "id": 8834999,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-31T16:11:04Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "grunt-svgmin",
-            "stars": 434
+            "stars": 434,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -2020,12 +3082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polymer Tools Monorepo",
+            "homepage": null,
             "id": 9357067,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-21T04:09:56Z",
+            "open_issues": 870,
             "owner": "Polymer",
             "repo": "tools",
-            "stars": 437
+            "stars": 437,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2036,12 +3103,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Concatenate a set of Web Components into one file",
+            "homepage": null,
             "id": 15751407,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-23T12:02:52Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gulp-vulcanize",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "concatenate",
+              "deprecated",
+              "gulp-plugin",
+              "javascript",
+              "nodejs",
+              "polymer",
+              "vulcanize",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -2058,12 +3139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern HTTP benchmarking tool",
+            "homepage": null,
             "id": 3774328,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-30T10:33:51Z",
+            "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40398
+            "stars": 40400,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2074,12 +3160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).",
+            "homepage": "http://apps.chicagotribune.com/",
             "id": 747722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-28T21:15:07Z",
+            "open_issues": 77,
             "owner": "newsapps",
             "repo": "beeswithmachineguns",
-            "stars": 6628
+            "stars": 6628,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2090,12 +3181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The httperf HTTP load generator",
+            "homepage": null,
             "id": 32188829,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2022-04-20T11:35:50Z",
+            "open_issues": 54,
             "owner": "httperf",
             "repo": "httperf",
-            "stars": 1018
+            "stars": 1018,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2106,12 +3202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby driver for httperf - automated load and performance testing",
+            "homepage": "https://www.igvita.com/2008/09/30/load-testing-with-log-replay/",
             "id": 57921,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2014-10-15T14:46:29Z",
+            "open_issues": 1,
             "owner": "igrigorik",
             "repo": "autoperf",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2122,12 +3223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NodeJS port of HTTPerf.rb",
+            "homepage": null,
             "id": 11187523,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-02-28T00:28:52Z",
+            "open_issues": 0,
             "owner": "jmervine",
             "repo": "httperfjs",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2138,12 +3244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple interface for calling httperf via ruby.",
+            "homepage": null,
             "id": 5189320,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2021-01-11T19:25:11Z",
+            "open_issues": 2,
             "owner": "jmervine",
             "repo": "httperfrb",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2154,12 +3265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python port of httperfrb",
+            "homepage": "http://pypi.python.org/pypi/httperfpy/",
             "id": 5826084,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2014-12-17T18:01:37Z",
+            "open_issues": 0,
             "owner": "jmervine",
             "repo": "httperfpy",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2170,12 +3286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple PHP Port of HTTPerf.rb [https://github.com/jmervine/httperfrb]",
+            "homepage": null,
             "id": 19001985,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2014-04-28T18:46:47Z",
+            "open_issues": 0,
             "owner": "jmervine",
             "repo": "php-httperf",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2186,12 +3307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go Port of HTTPerf.rb - https://github.com/jmervine/httperfrb",
+            "homepage": null,
             "id": 19383885,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2015-07-11T23:52:23Z",
+            "open_issues": 0,
             "owner": "jmervine",
             "repo": "gohttperf",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -2208,12 +3334,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Web Performance Research",
+            "homepage": "https://iamtk.co/web-performance-roadmap",
             "id": 277315091,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-07T20:30:01Z",
+            "open_issues": 1,
             "owner": "imteekay",
             "repo": "web-performance-research",
-            "stars": 1051
+            "stars": 1051,
+            "topics": [
+              "browser",
+              "javascript",
+              "performance",
+              "react",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -2224,12 +3361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of webpack tools for web performance",
+            "homepage": null,
             "id": 214902909,
             "language": null,
+            "license": null,
             "last_commit": "2021-07-23T08:15:07Z",
+            "open_issues": 1,
             "owner": "iamakulov",
             "repo": "awesome-webpack-perf",
-            "stars": 959
+            "stars": 959,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         }
@@ -2238,15 +3380,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:42:28.206Z",
+    "last_updated": "2026-08-29T04:15:57.692Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Web Performance Optimization. ",
+      "homepage": "https://awesome-wpo.dev/",
       "id": 25212911,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-28T02:18:16Z",
+      "open_issues": 21,
       "owner": "davidsonfellipe",
       "repo": "awesome-wpo",
-      "stars": 9053
+      "stars": 9054,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "webperf",
+        "webperf-metrics",
+        "webperformance"
+      ]
     },
     "original_repository_sha": "84f32948a6298456d6a94cff64551f39f2666e6f",
     "enhanced_repository": "enhansome/enhansome-wpo",
