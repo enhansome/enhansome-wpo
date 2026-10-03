@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2867,
+            "stars": 2869,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -46,10 +46,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2867,
+            "stars": 2869,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -76,10 +76,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2867,
+            "stars": 2869,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -106,10 +106,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2867,
+            "stars": 2869,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -136,10 +136,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-24T21:07:36Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2867,
+            "stars": 2869,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -532,7 +532,7 @@
             "open_issues": 23,
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9152,
+            "stars": 9153,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
@@ -910,7 +910,7 @@
             "open_issues": 468,
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30847,
+            "stars": 30848,
             "topics": [
               "audit",
               "best-practices",
@@ -961,7 +961,7 @@
             "open_issues": 235,
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 7102,
+            "stars": 7103,
             "topics": [
               "lighthouse",
               "webperf"
@@ -1082,6 +1082,35 @@
         },
         {
           "node_type": "item",
+          "title": "AtBuild",
+          "description": "JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Use JavaScript to generate JavaScript",
+            "homepage": "atbuild.vercel.app",
+            "id": 303250302,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2020-11-22T00:07:55Z",
+            "open_issues": 2,
+            "owner": "Jarred-Sumner",
+            "repo": "atbuild",
+            "stars": 36,
+            "topics": [
+              "babel",
+              "build-tool",
+              "code-generation",
+              "codegen",
+              "esbuild",
+              "preprocessor",
+              "webpack"
+            ]
+          },
+          "first_seen": "2026-08-28T17:42:28.206Z"
+        },
+        {
+          "node_type": "item",
           "title": "Assetgraph-sprite",
           "description": "Assetgraph transform for auto-generating sprites based on the CSS dependency graph.",
           "children": [],
@@ -1098,35 +1127,6 @@
             "repo": "assetgraph-sprite",
             "stars": 36,
             "topics": []
-          },
-          "first_seen": "2026-08-28T17:42:28.206Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AtBuild",
-          "description": "JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Use JavaScript to generate JavaScript",
-            "homepage": "atbuild.vercel.app",
-            "id": 303250302,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2020-11-22T00:07:55Z",
-            "open_issues": 2,
-            "owner": "Jarred-Sumner",
-            "repo": "atbuild",
-            "stars": 35,
-            "topics": [
-              "babel",
-              "build-tool",
-              "code-generation",
-              "codegen",
-              "esbuild",
-              "preprocessor",
-              "webpack"
-            ]
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
         },
@@ -1215,7 +1215,7 @@
             "open_issues": 119,
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32736,
+            "stars": 32737,
             "topics": [
               "avif",
               "crop",
@@ -1491,7 +1491,7 @@
             "open_issues": 8,
             "owner": "imager-io",
             "repo": "imager",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "compression",
               "image",
@@ -3009,7 +3009,7 @@
             "open_issues": 272,
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22709,
+            "stars": 22711,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -3148,7 +3148,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40417,
+            "stars": 40418,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
@@ -3380,7 +3380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:13.105Z",
+    "last_updated": "2026-10-03T10:37:00.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Web Performance Optimization. ",
