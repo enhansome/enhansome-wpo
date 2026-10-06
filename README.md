@@ -56,11 +56,11 @@ Here's a quick overview of the categories covered in this collection:
 
 > Agent skills for web quality audits and optimization workflows.
 
-* [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) ⭐ 2,895 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Comprehensive quality review across all categories.
-* [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) ⭐ 2,895 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - LCP, INP, and CLS specific optimizations.
-* [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) ⭐ 2,895 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - WCAG compliance, screen reader support, and keyboard navigation.
-* [performance](https://github.com/addyosmani/web-quality-skills#performance) ⭐ 2,895 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Loading speed, runtime efficiency, and resource optimization.
-* [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) ⭐ 2,895 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Security, modern APIs, and code quality patterns.
+* [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) ⭐ 2,896 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Comprehensive quality review across all categories.
+* [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) ⭐ 2,896 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - LCP, INP, and CLS specific optimizations.
+* [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) ⭐ 2,896 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - WCAG compliance, screen reader support, and keyboard navigation.
+* [performance](https://github.com/addyosmani/web-quality-skills#performance) ⭐ 2,896 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Loading speed, runtime efficiency, and resource optimization.
+* [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) ⭐ 2,896 | 🐛 4 | 🌐 Shell | 📅 2026-08-24 - Security, modern APIs, and code quality patterns.
 
 ## Articles
 
@@ -140,7 +140,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Analyzers
 
 * [Web Tracing Framework](https://github.com/google/tracing-framework) ⚠️ Archived - Libraries, tools, and visualizers for tracing and investigating complex web applications.
-* [Yandex.Tank](https://github.com/yandex/yandex-tank) ⭐ 2,599 | 🐛 93 | 🌐 Python | 📅 2026-10-05 - An extensible open-source load testing tool for advanced Linux users which is especially good as a part of an automated load testing suite.
+* [Yandex.Tank](https://github.com/yandex/yandex-tank) ⭐ 2,599 | 🐛 94 | 🌐 Python | 📅 2026-10-05 - An extensible open-source load testing tool for advanced Linux users which is especially good as a part of an automated load testing suite.
 * [YSlow](https://github.com/marcelduran/yslow) ⭐ 2,200 | 🐛 141 | 🌐 JavaScript | 📅 2023-02-17 - Analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
 * [Speed Racer](https://github.com/speedracer/speedracer) ⭐ 1,847 | 🐛 7 | 🌐 JavaScript | 📅 2022-07-24 - Collect performance metrics for your library/application using Chrome headless.
 * [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) ⭐ 842 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-01 - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
@@ -225,7 +225,7 @@ Here's a quick overview of the categories covered in this collection:
 
 > A content delivery network or content distribution network (CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. See a large list of CDN in [Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
 
-* [jsDelivr](https://github.com/jsdelivr/jsdelivr) ⭐ 6,391 | 🐛 32 | 🌐 JavaScript | 📅 2026-10-05 - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
+* [jsDelivr](https://github.com/jsdelivr/jsdelivr) ⭐ 6,392 | 🐛 32 | 🌐 JavaScript | 📅 2026-10-05 - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
 * [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) ⚠️ Archived - Replaces script references with Google CDN ones.
 * [Cloudflare CDN](https://www.cloudflare.com/products/cdn/) - A content delivery network that uses next-gen tech to deliver fast, reliable, CDN services.
 * [PageCDN](https://pagecdn.com/lib) - A state-of-the-art opensource CDN with aggressive content optimization using brotli-11 compression, HTTP/2 server push, better HTTP/2 multiplexing, and more. Supports 100s of libraries and 2000+ WordPress themes already. Easy to use, easy to link, and very fast.
@@ -242,7 +242,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Core Web Vitals
 
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 30,864 | 🐛 473 | 🌐 JavaScript | 📅 2026-10-06 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 30,865 | 🐛 473 | 🌐 JavaScript | 📅 2026-10-06 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
 * [web-vitals](https://github.com/GoogleChrome/web-vitals) ⭐ 8,638 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-06 - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
 * [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) ⭐ 7,105 | 🐛 235 | 🌐 JavaScript | 📅 2026-03-27 - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
 

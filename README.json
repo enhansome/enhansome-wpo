@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2895,
+            "stars": 2896,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -49,7 +49,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2895,
+            "stars": 2896,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -79,7 +79,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2895,
+            "stars": 2896,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -109,7 +109,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2895,
+            "stars": 2896,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -139,7 +139,7 @@
             "open_issues": 4,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 2895,
+            "stars": 2896,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -193,7 +193,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T09:32:23Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "yandex",
             "repo": "yandex-tank",
             "stars": 2599,
@@ -844,7 +844,7 @@
             "open_issues": 32,
             "owner": "jsdelivr",
             "repo": "jsdelivr",
-            "stars": 6391,
+            "stars": 6392,
             "topics": [
               "cdn",
               "cdn-providers",
@@ -910,7 +910,7 @@
             "open_issues": 473,
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 30864,
+            "stars": 30865,
             "topics": [
               "audit",
               "best-practices",
@@ -3380,7 +3380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:03.327Z",
+    "last_updated": "2026-10-06T12:13:19.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Web Performance Optimization. ",
