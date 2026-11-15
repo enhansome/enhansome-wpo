@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 3081,
+            "stars": 3085,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -49,7 +49,7 @@
             "open_issues": 9,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 3081,
+            "stars": 3085,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -79,7 +79,7 @@
             "open_issues": 9,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 3081,
+            "stars": 3085,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -109,7 +109,7 @@
             "open_issues": 9,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 3081,
+            "stars": 3085,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -139,7 +139,7 @@
             "open_issues": 9,
             "owner": "addyosmani",
             "repo": "web-quality-skills",
-            "stars": 3081,
+            "stars": 3085,
             "topics": [
               "accessibility",
               "agent-skills",
@@ -844,7 +844,7 @@
             "open_issues": 36,
             "owner": "jsdelivr",
             "repo": "jsdelivr",
-            "stars": 6423,
+            "stars": 6424,
             "topics": [
               "cdn",
               "cdn-providers",
@@ -906,11 +906,11 @@
             "id": 53370988,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T01:36:56Z",
-            "open_issues": 436,
+            "last_commit": "2026-11-15T12:03:50Z",
+            "open_issues": 437,
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 31079,
+            "stars": 31107,
             "topics": [
               "audit",
               "best-practices",
@@ -940,7 +940,7 @@
             "open_issues": 20,
             "owner": "GoogleChrome",
             "repo": "web-vitals",
-            "stars": 8680,
+            "stars": 8683,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
@@ -961,7 +961,7 @@
             "open_issues": 151,
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 7144,
+            "stars": 7147,
             "topics": [
               "lighthouse",
               "webperf"
@@ -1092,7 +1092,7 @@
             "id": 1940646,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T08:26:01Z",
+            "last_commit": "2026-11-14T22:56:10Z",
             "open_issues": 9,
             "owner": "assetgraph",
             "repo": "assetgraph-sprite",
@@ -1215,7 +1215,7 @@
             "open_issues": 129,
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32849,
+            "stars": 32852,
             "topics": [
               "avif",
               "crop",
@@ -1302,7 +1302,7 @@
             "open_issues": 81,
             "owner": "imagemin",
             "repo": "imagemin",
-            "stars": 5717,
+            "stars": 5718,
             "topics": [
               "buffer",
               "gif",
@@ -1397,10 +1397,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T20:13:45Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "tjko",
             "repo": "jpegoptim",
-            "stars": 1826,
+            "stars": 1827,
             "topics": [
               "image-optimization",
               "jpeg-encoder",
@@ -1700,7 +1700,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T01:43:56Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "GoogleChromeLabs",
             "repo": "quicklink",
             "stars": 11305,
@@ -2033,7 +2033,7 @@
             "open_issues": 18,
             "owner": "addyosmani",
             "repo": "puppeteer-webperf",
-            "stars": 1861,
+            "stars": 1862,
             "topics": [
               "chrome",
               "chrome-devtools",
@@ -2214,10 +2214,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-07T05:12:27Z",
-            "open_issues": 404,
+            "open_issues": 406,
             "owner": "terser",
             "repo": "terser",
-            "stars": 9356,
+            "stars": 9357,
             "topics": [
               "compressor",
               "es6",
@@ -2245,7 +2245,7 @@
             "open_issues": 1,
             "owner": "kangax",
             "repo": "html-minifier",
-            "stars": 5026,
+            "stars": 5025,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
@@ -2569,7 +2569,7 @@
             "open_issues": 2,
             "owner": "gruntjs",
             "repo": "grunt-contrib-htmlmin",
-            "stars": 420,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
@@ -2802,11 +2802,11 @@
             "id": 45431898,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T21:41:49Z",
+            "last_commit": "2026-11-14T20:51:08Z",
             "open_issues": 0,
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27067,
+            "stars": 27068,
             "topics": [
               "grid",
               "list",
@@ -2865,7 +2865,7 @@
             "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10301,
+            "stars": 10303,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -3009,7 +3009,7 @@
             "open_issues": 279,
             "owner": "svg",
             "repo": "svgo",
-            "stars": 22817,
+            "stars": 22820,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -3148,7 +3148,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40424,
+            "stars": 40423,
             "topics": []
           },
           "first_seen": "2026-08-28T17:42:28.206Z"
@@ -3380,7 +3380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:30:08.410Z",
+    "last_updated": "2026-11-15T12:57:21.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Web Performance Optimization. ",
@@ -3392,7 +3392,7 @@
       "open_issues": 54,
       "owner": "davidsonfellipe",
       "repo": "awesome-wpo",
-      "stars": 9175,
+      "stars": 9179,
       "topics": [
         "awesome",
         "awesome-list",
