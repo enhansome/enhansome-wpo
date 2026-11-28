@@ -56,11 +56,11 @@ Here's a quick overview of the categories covered in this collection:
 
 > Agent skills for web quality audits and optimization workflows.
 
-* [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) ⭐ 3,139 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - Comprehensive quality review across all categories.
-* [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) ⭐ 3,139 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - LCP, INP, and CLS specific optimizations.
-* [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) ⭐ 3,139 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - WCAG compliance, screen reader support, and keyboard navigation.
-* [performance](https://github.com/addyosmani/web-quality-skills#performance) ⭐ 3,139 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - Loading speed, runtime efficiency, and resource optimization.
-* [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) ⭐ 3,139 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - Security, modern APIs, and code quality patterns.
+* [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) ⭐ 3,144 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - Comprehensive quality review across all categories.
+* [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) ⭐ 3,144 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - LCP, INP, and CLS specific optimizations.
+* [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) ⭐ 3,144 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - WCAG compliance, screen reader support, and keyboard navigation.
+* [performance](https://github.com/addyosmani/web-quality-skills#performance) ⭐ 3,144 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - Loading speed, runtime efficiency, and resource optimization.
+* [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) ⭐ 3,144 | 🐛 9 | 🌐 Shell | 📅 2026-08-24 - Security, modern APIs, and code quality patterns.
 
 ## Articles
 
@@ -225,7 +225,7 @@ Here's a quick overview of the categories covered in this collection:
 
 > A content delivery network or content distribution network (CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. See a large list of CDN in [Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
 
-* [jsDelivr](https://github.com/jsdelivr/jsdelivr) ⭐ 6,433 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-08 - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
+* [jsDelivr](https://github.com/jsdelivr/jsdelivr) ⭐ 6,432 | 🐛 39 | 🌐 JavaScript | 📅 2026-11-08 - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
 * [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) ⚠️ Archived - Replaces script references with Google CDN ones.
 * [Cloudflare CDN](https://www.cloudflare.com/products/cdn/) - A content delivery network that uses next-gen tech to deliver fast, reliable, CDN services.
 * [PageCDN](https://pagecdn.com/lib) - A state-of-the-art opensource CDN with aggressive content optimization using brotli-11 compression, HTTP/2 server push, better HTTP/2 multiplexing, and more. Supports 100s of libraries and 2000+ WordPress themes already. Easy to use, easy to link, and very fast.
@@ -242,7 +242,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Core Web Vitals
 
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 31,215 | 🐛 438 | 🌐 JavaScript | 📅 2026-11-25 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 31,223 | 🐛 432 | 🌐 JavaScript | 📅 2026-11-25 - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
 * [web-vitals](https://github.com/GoogleChrome/web-vitals) ⭐ 8,702 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-12 - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
 * [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) ⭐ 7,165 | 🐛 150 | 🌐 JavaScript | 📅 2026-11-17 - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
 
@@ -257,7 +257,7 @@ Here's a quick overview of the categories covered in this collection:
 * [Sprite Factory](https://github.com/jakesgordon/sprite-factory) ⭐ 618 | 🐛 13 | 🌐 Ruby | 📅 2025-06-01 - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS style sheet for use in your web application.
 * [Sprity](https://github.com/sprity/sprity) ⭐ 477 | 🐛 59 | 🌐 JavaScript | 📅 2022-01-18 - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
 * [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites) ⭐ 329 | 🐛 44 | 🌐 JavaScript | 📅 2021-08-04 - Gulp task for creating SVG sprites.
-* [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) ⭐ 36 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-26 - Assetgraph transform for auto-generating sprites based on the CSS dependency graph.
+* [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) ⭐ 36 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-28 - Assetgraph transform for auto-generating sprites based on the CSS dependency graph.
 * [AtBuild](https://github.com/jarred-sumner/atbuild) ⭐ 35 | 🐛 2 | 🌐 TypeScript | 📅 2020-11-22 - JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime.
 * [Pitomba-spriter](https://github.com/pitomba/spriter) ⭐ 19 | 🐛 8 | 🌐 Python | 📅 2014-10-10 - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your Python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
 * [Gulp-sprite](https://github.com/aslansky/gulp-sprite) ⭐ 15 | 🐛 5 | 🌐 JavaScript | 📅 2015-11-20 - Gulp task for creating an image sprite and the corresponding style sheets for Gulp.
@@ -271,10 +271,10 @@ Here's a quick overview of the categories covered in this collection:
 
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
-* [Sharp](https://github.com/lovell/sharp) ⭐ 32,873 | 🐛 130 | 🌐 JavaScript | 📅 2026-11-27 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
-* [Gm](https://github.com/aheckmann/gm) ⭐ 6,973 | 🐛 366 | 🌐 JavaScript | 📅 2025-02-25 - GraphicsMagick and ImageMagick for Node.js.
+* [Sharp](https://github.com/lovell/sharp) ⭐ 32,874 | 🐛 130 | 🌐 JavaScript | 📅 2026-11-27 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
+* [Gm](https://github.com/aheckmann/gm) ⭐ 6,974 | 🐛 366 | 🌐 JavaScript | 📅 2025-02-25 - GraphicsMagick and ImageMagick for Node.js.
 * [mozjpeg](https://github.com/mozilla/mozjpeg) ⭐ 5,749 | 🐛 107 | 🌐 C | 📅 2025-06-23 - Improved JPEG encoder.
-* [Imagemin](https://github.com/imagemin/imagemin) ⭐ 5,717 | 🐛 81 | 🌐 JavaScript | 📅 2025-03-07 - Minify images seamlessly with Node.js.
+* [Imagemin](https://github.com/imagemin/imagemin) ⭐ 5,716 | 🐛 81 | 🌐 JavaScript | 📅 2025-03-07 - Minify images seamlessly with Node.js.
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) ⭐ 3,539 | 🐛 3 | 🌐 Rust | 📅 2026-08-02 - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 * [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) ⭐ 1,901 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-18 - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
 * [Jpegoptim](https://github.com/tjko/jpegoptim) ⭐ 1,829 | 🐛 13 | 🌐 C | 📅 2026-11-25 - Utility to optimize/compress JPEG files.
@@ -305,14 +305,14 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Lazyloaders
 
-* [quicklink](https://github.com/GoogleChromeLabs/quicklink) ⭐ 11,306 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-01 - Prefetch links in the viewport (via Intersection Observer) to make future navigations faster.
+* [quicklink](https://github.com/GoogleChromeLabs/quicklink) ⭐ 11,308 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-01 - Prefetch links in the viewport (via Intersection Observer) to make future navigations faster.
 * [lozad.js](https://github.com/ApoorvSaxena/lozad.js) ⭐ 7,483 | 🐛 68 | 🌐 JavaScript | 📅 2025-11-18 - Highly performant, light \~0.9kb, and configurable lazy loader in pure JS with no dependencies for responsive images, iframes, and more.
 * [lazyload](https://github.com/vvo/lazyload) ⭐ 928 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-27 - Defer images, iframes, and widgets with a standalone JavaScript lazyloader (\~1kb).
 
 ## Loaders
 
-* [Guess.js](https://github.com/guess-js/guess) ⭐ 7,117 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-25 - Predictive prefetching and performance optimization using analytics and machine learning.
-* [InstantClick](https://github.com/dieulot/instantclick) ⭐ 5,479 | 🐛 55 | 🌐 JavaScript | 📅 2018-06-06 - Preloads pages on hover so in-site links feel instant.
+* [Guess.js](https://github.com/guess-js/guess) ⭐ 7,118 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-25 - Predictive prefetching and performance optimization using analytics and machine learning.
+* [InstantClick](https://github.com/dieulot/instantclick) ⭐ 5,480 | 🐛 55 | 🌐 JavaScript | 📅 2018-06-06 - Preloads pages on hover so in-site links feel instant.
 * [HeadJS](https://github.com/headjs/headjs) ⚠️ Archived - The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 * [Labjs](https://github.com/getify/LABjs) ⚠️ Archived - An open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [JIT](https://github.com/shootaroo/jit-grunt) ⭐ 503 | 🐛 11 | 🌐 JavaScript | 📅 2018-05-11 - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
@@ -323,7 +323,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Metrics Monitor
 
 * [Perfume.js](https://github.com/Zizzamia/perfume.js) ⭐ 3,200 | 🐛 21 | 🌐 TypeScript | 📅 2025-10-25 - Tiny library to collect Core Web Vitals and other performance metrics from real users.
-* [Phantomas](https://github.com/macbre/phantomas) ⭐ 2,260 | 🐛 64 | 🌐 JavaScript | 📅 2026-11-23 - PhantomJS-based web performance metrics collector and monitoring tool.
+* [Phantomas](https://github.com/macbre/phantomas) ⭐ 2,260 | 🐛 63 | 🌐 JavaScript | 📅 2026-11-27 - PhantomJS-based web performance metrics collector and monitoring tool.
 * [puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) ⭐ 1,860 | 🐛 18 | 🌐 JavaScript | 📅 2023-01-18 - Collect web performance metrics in Puppeteer scripts.
 * [WebPageTest API Wrapper for Node.js](https://github.com/catchpoint/WebPageTest.api-nodejs) ⭐ 1,630 | 🐛 58 | 🌐 JavaScript | 📅 2026-10-29 - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 * [Telescope](https://github.com/cloudflare/telescope) ⭐ 310 | 🐛 72 | 🌐 TypeScript | 📅 2026-11-14 - Cross-browser web performance testing CLI and library built on Playwright; collects HAR, Web Vitals, resource timing, console logs, screenshots, and filmstrip across Chrome, Firefox, Safari, and Edge.
@@ -343,13 +343,13 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Minifiers
 
-* [UglifyJS2](https://github.com/mishoo/UglifyJS) ⭐ 13,365 | 🐛 48 | 🌐 JavaScript | 📅 2024-11-22 - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
-* [Terser](https://github.com/terser/terser) ⭐ 9,367 | 🐛 403 | 🌐 JavaScript | 📅 2026-11-20 - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
-* [HTMLMinifier](https://github.com/kangax/html-minifier) ⭐ 5,023 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-17 - Highly configurable, well-tested, JavaScript-based HTML minifier with lint-like capabilities.
-* [Clean-css](https://github.com/clean-css/clean-css) ⭐ 4,195 | 🐛 47 | 🌐 JavaScript | 📅 2024-10-18 - A fast, efficient, and well-tested CSS minifier for node.js.
+* [UglifyJS2](https://github.com/mishoo/UglifyJS) ⭐ 13,367 | 🐛 48 | 🌐 JavaScript | 📅 2024-11-22 - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
+* [Terser](https://github.com/terser/terser) ⭐ 9,368 | 🐛 404 | 🌐 JavaScript | 📅 2026-11-20 - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
+* [HTMLMinifier](https://github.com/kangax/html-minifier) ⭐ 5,022 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-17 - Highly configurable, well-tested, JavaScript-based HTML minifier with lint-like capabilities.
+* [Clean-css](https://github.com/clean-css/clean-css) ⭐ 4,196 | 🐛 47 | 🌐 JavaScript | 📅 2024-10-18 - A fast, efficient, and well-tested CSS minifier for node.js.
 * [Grunt-uncss](https://github.com/uncss/grunt-uncss) ⭐ 3,786 | 🐛 9 | 🌐 HTML | 📅 2023-07-18 - A grunt task for removing unused CSS from your projects.
 * [CSSO](https://github.com/css/csso) ⭐ 3,773 | 🐛 102 | 🌐 JavaScript | 📅 2024-06-21 - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
-* [Django-compressor](https://github.com/django-compressor/django-compressor) ⭐ 2,869 | 🐛 122 | 🌐 Python | 📅 2026-11-24 - Compresses linked and inline JavaScript or CSS into a single cached file.
+* [Django-compressor](https://github.com/django-compressor/django-compressor) ⭐ 2,869 | 🐛 125 | 🌐 Python | 📅 2026-11-24 - Compresses linked and inline JavaScript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/jazzband/django-pipeline) ⭐ 1,538 | 🐛 139 | 🌐 Python | 📅 2026-11-25 - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [Grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) ⭐ 1,460 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-22 - A Grunt plugin to concatenate and minify JavaScript files.
 * [CSSshrink](https://github.com/stoyan/cssshrink) ⭐ 1,042 | 🐛 22 | 🌐 JavaScript | 📅 2017-09-09 - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
@@ -376,10 +376,10 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Miscellaneous
 
-* [react-virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,074 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - React components for efficiently rendering large lists and tabular data by virtualizing visible rows.
+* [react-virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,073 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - React components for efficiently rendering large lists and tabular data by virtualizing visible rows.
 * [Lazysizes](https://github.com/aFarkas/lazysizes) ⭐ 17,707 | 🐛 208 | 🌐 JavaScript | 📅 2024-04-03 - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * [Critical](https://github.com/addyosmani/critical) ⭐ 10,308 | 🐛 36 | 🌐 JavaScript | 📅 2026-11-24 - Extract & Inline Critical-path CSS in HTML pages (alpha).
-* [Fontaine](https://github.com/unjs/fontaine) ⭐ 2,024 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-27 - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
+* [Fontaine](https://github.com/unjs/fontaine) ⭐ 2,025 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-27 - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
 * [TMI](https://github.com/addyosmani/tmi) ⭐ 1,615 | 🐛 6 | 🌐 JavaScript | 📅 2017-02-14 - Too Many Images: discover your image weight on the web.
 * [uCSS](https://github.com/oyvindeh/ucss) ⭐ 1,605 | 🐛 3 | 🌐 JavaScript | 📅 2017-01-26 - Crawls large sites to find unused CSS selectors (does not remove unused CSS).
 * [HTTPinvoke](https://github.com/jakutis/httpinvoke) ⭐ 341 | 🐛 4 | 🌐 JavaScript | 📅 2016-01-25 - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.
@@ -388,7 +388,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## SVG
 
-* [SVGO](https://github.com/svg/svgo) ⭐ 22,845 | 🐛 291 | 🌐 JavaScript | 📅 2026-11-08 - Node.js-based optimizer for SVG vector graphics.
+* [SVGO](https://github.com/svg/svgo) ⭐ 22,845 | 🐛 293 | 🌐 JavaScript | 📅 2026-11-08 - Node.js-based optimizer for SVG vector graphics.
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) ⚠️ Archived - Cleans SVG files of unnecessary data with batch mode, many cleanup options, and threaded processing on multicore CPUs.
 * [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) ⭐ 432 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Minify SVG using SVGO for Grunt.
 * [SVG OMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
@@ -402,7 +402,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Web server Benchmarks
 
-* [wrk](https://github.com/wg/wrk) ⭐ 40,429 | 🐛 202 | 🌐 C | 📅 2023-12-30 - A HTTP benchmarking tool (with optional Lua scripting for request generation, response processing, and custom reporting).
+* [wrk](https://github.com/wg/wrk) ⭐ 40,428 | 🐛 202 | 🌐 C | 📅 2023-12-30 - A HTTP benchmarking tool (with optional Lua scripting for request generation, response processing, and custom reporting).
 * [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) ⭐ 6,632 | 🐛 77 | 🌐 Python | 📅 2024-03-28 - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 * [HTTPerf](https://github.com/httperf/httperf) ⭐ 1,016 | 🐛 55 | 🌐 C | 📅 2022-04-20 - Measures web server performance with flexible generation of HTTP workloads and server metrics.
 * [Autoperf](https://github.com/igrigorik/autoperf) ⭐ 179 | 🐛 1 | 🌐 Ruby | 📅 2014-10-15 - Ruby driver for httperf to automate load and performance testing for a single endpoint or via log replay.
@@ -448,4 +448,4 @@ For contributing, please check [contributing.md](contributing.md), then [open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
